@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Dashboard_AggrCustomerOrderCount/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_AggrCustomerOrderCount/Form1.vb))
+<!-- default file list end -->
 # How to divide customers' count by the number of orders they made
 
 
