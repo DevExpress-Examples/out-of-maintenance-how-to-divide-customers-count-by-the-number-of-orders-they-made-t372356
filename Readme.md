@@ -3,7 +3,7 @@
 
 * [Form1.cs](./CS/Dashboard_AggrCustomerOrderCount/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_AggrCustomerOrderCount/Form1.vb))
 <!-- default file list end -->
-# How to divide customers' count by the number of orders they made
+# Dashboard for WinForms - How to divide customers' count by the number of orders they made
 
 
 This example shows how to divide customers' count by the number of orders they made.
